@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project Sikkai](www.sikkainepal.com)
 
-- 🌱 I’m currently learning **Advance Backend tools**
+- 🌱 I’m currently learning **Advance Backend Programming with NEST JS**
 
 - 💬 Ask me about **React, Node, Express**
 
