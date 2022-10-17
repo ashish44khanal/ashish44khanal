@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, Node, Express**
 
-- 📫 How to reach me **ashish24khanal@gmail.com**
-
 - ⚡ Fun fact **I'm very friendly and football lover.**
 
 <h3 align="left">Connect with me:</h3>
