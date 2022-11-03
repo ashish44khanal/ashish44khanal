@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Ashish Khanal</h1>
 <h3 align="left">Passionate about bringing ideas to life</h3>
 
-- 🔭 I’m currently working on [Project Sikkai](www.sikkainepal.com)
+- 🔭 I’m currently working at <a href='https://codingmountain.com/'> Coding Mountain </a>
 
 - 🌱 I’m currently learning **Advance Backend Programming with NEST JS**
 
